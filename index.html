@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nemis Tili Testi - Interactive Quiz</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- Sarlavha -->
+        <header class="header">
+            <h1><i class="fas fa-language"></i> Nemis Tili Testi</h1>
+            <p class="subtitle">201 ta savol | Interaktiv test | O'zbek va Nemis tillari</p>
+        </header>
+
+        <!-- Asosiy menyu -->
+        <div class="main-menu" id="mainMenu">
+            <div class="menu-card">
+                <i class="fas fa-play-circle"></i>
+                <h2>Testni Boshlash</h2>
+                <p>Barcha 201 ta savol bo'yicha test ishlang</p>
+                <button class="btn-primary" onclick="startQuiz()">
+                    <i class="fas fa-play"></i> Boshlash
+                </button>
+            </div>
+            
+            <div class="menu-card">
+                <i class="fas fa-cog"></i>
+                <h2>Sozlamalar</h2>
+                <p>Test rejimini sozlang</p>
+                <div class="settings">
+                    <label>
+                        <input type="number" id="questionCount" min="1" max="201" value="20">
+                        Savollar soni
+                    </label>
+                    <label>
+                        <input type="checkbox" id="shuffleQuestions" checked>
+                        Savollarni aralashtirish
+                    </label>
+                    <label>
+                        <input type="checkbox" id="shuffleAnswers" checked>
+                        Javoblarni aralashtirish
+                    </label>
+                </div>
+            </div>
+            
+            <div class="menu-card">
+                <i class="fas fa-chart-bar"></i>
+                <h2>Natijalar</h2>
+                <p>Oldingi natijalaringizni ko'ring</p>
+                <button class="btn-secondary" onclick="showResults()">
+                    <i class="fas fa-history"></i> Ko'rish
+                </button>
+            </div>
+        </div>
+
+        <!-- Test oynasi (dastlab yashirin) -->
+        <div class="quiz-container" id="quizContainer" style="display: none;">
+            <div class="quiz-header">
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+                <div class="quiz-info">
+                    <span id="currentQuestion">1</span> / <span id="totalQuestions">20</span>
+                    <span class="score" id="currentScore">0 ball</span>
+                </div>
+            </div>
+
+            <div class="question-card">
+                <h2 id="questionText">Savol matni yuklanmoqda...</h2>
+                <div class="question-info">
+                    <span class="badge" id="questionCategory">Grammatika</span>
+                    <span class="badge" id="questionType">To'ldirish</span>
+                </div>
+            </div>
+
+            <div class="options-container" id="optionsContainer">
+                <!-- Variantlar JavaScript orqali qo'shiladi -->
+            </div>
+
+            <div class="quiz-controls">
+                <button class="btn-secondary" onclick="previousQuestion()" id="prevBtn">
+                    <i class="fas fa-arrow-left"></i> Oldingi
+                </button>
+                <button class="btn-primary" onclick="nextQuestion()" id="nextBtn">
+                    Keyingi <i class="fas fa-arrow-right"></i>
+                </button>
+                <button class="btn-warning" onclick="finishQuiz()" id="finishBtn" style="display: none;">
+                    <i class="fas fa-flag-checkered"></i> Yakunlash
+                </button>
+            </div>
+        </div>
+
+        <!-- Natijalar oynasi -->
+        <div class="results-container" id="resultsContainer" style="display: none;">
+            <h2><i class="fas fa-trophy"></i> Test Natijalari</h2>
+            <div class="results-card">
+                <div class="result-score">
+                    <div class="circle-chart">
+                        <svg width="120" height="120" viewBox="0 0 120 120">
+                            <circle cx="60" cy="60" r="54" fill="none" stroke="#e0e0e0" stroke-width="12"/>
+                            <circle cx="60" cy="60" r="54" fill="none" stroke="#4CAF50" stroke-width="12" 
+                                    stroke-linecap="round" id="scoreCircle"/>
+                        </svg>
+                        <div class="score-text">
+                            <span id="finalScore">0</span>
+                            <small>/</small>
+                            <span id="totalPossible">0</span>
+                        </div>
+                    </div>
+                    <h3 id="percentageScore">0%</h3>
+                    <p id="resultMessage">Xabar yuklanmoqda...</p>
+                </div>
+
+                <div class="result-details">
+                    <h3><i class="fas fa-list-check"></i> Tafsilotlar</h3>
+                    <div class="detail-item">
+                        <span>To'g'ri javoblar:</span>
+                        <strong id="correctCount">0</strong>
+                    </div>
+                    <div class="detail-item">
+                        <span>Noto'g'ri javoblar:</span>
+                        <strong id="incorrectCount">0</strong>
+                    </div>
+                    <div class="detail-item">
+                        <span>Vaqt:</span>
+                        <strong id="timeSpent">0 daqiqa</strong>
+                    </div>
+                    <div class="detail-item">
+                        <span>Sana:</span>
+                        <strong id="resultDate">-</strong>
+                    </div>
+                </div>
+            </div>
+
+            <div class="review-section">
+                <h3><i class="fas fa-eye"></i> Javoblarni Ko'rib Chiqish</h3>
+                <div id="reviewQuestions">
+                    <!-- Ko'rib chiqish uchun savollar -->
+                </div>
+            </div>
+
+            <div class="action-buttons">
+                <button class="btn-secondary" onclick="restartQuiz()">
+                    <i class="fas fa-redo"></i> Qayta Boshlash
+                </button>
+                <button class="btn-primary" onclick="goToMenu()">
+                    <i class="fas fa-home"></i> Asosiy Menyu
+                </button>
+            </div>
+        </div>
+
+        <!-- Pastki qism -->
+        <footer class="footer">
+            <p>© 2024 Nemis Tili Testi | Barcha savollar test bazasidan olingan</p>
+            <p class="language-switch">
+                <i class="fas fa-globe"></i> 
+                <span class="lang active" onclick="setLanguage('uz')">O'Z</span> | 
+                <span class="lang" onclick="setLanguage('de')">DE</span>
+            </p>
+        </footer>
+    </div>
+
+    <!-- Animatsiya elementlari -->
+    <div id="celebrationContainer" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; z-index:1000; pointer-events:none;">
+        <!-- Konfetti elementlari JavaScript orqali yaratiladi -->
+    </div>
+
+    <!-- Progress taymer -->
+    <div id="autoNextTimer" style="display:none; position:fixed; bottom:100px; right:30px; width:60px; height:60px; background:#4CAF50; color:white; border-radius:50%; display:flex; align-items:center; justify-content:center; font-size:1.5rem; font-weight:bold; z-index:999; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
+        <span id="timerCount">3</span>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+        // Dastlabki ma'lumotlarni yuklash
+        window.addEventListener('DOMContentLoaded', () => {
+            loadQuestions();
+        });
+    </script>
+</body>
+</html>
