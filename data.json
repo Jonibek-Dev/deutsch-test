@@ -1,0 +1,1610 @@
+[
+  {
+    "id": 1,
+    "question": "Woher komm ..... Sie?",
+    "options": ["-en", "-st", "-t", "-e"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "To'ldirish"
+  },
+  {
+    "id": 2,
+    "question": "Wir komm ... aus der Bibliothek",
+    "options": ["-en", "-st", "-t", "-e"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "To'ldirish"
+  },
+  {
+    "id": 3,
+    "question": "Ergänzen Sie die Zahl \"99\"",
+    "options": ["neunundneunzig", "dreiundneunzig", "achtundneunzig", "einundneunzig"],
+    "correctAnswer": 0,
+    "category": "Raqamlar",
+    "type": "To'ldirish"
+  },
+  {
+    "id": 4,
+    "question": "Übersetzen Sie folgendes Wort auf Usbekisch. \"verheiratet\"",
+    "options": ["turmush qurmoq", "ishlamoq", "ajrashmoq", "yashamoq"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 5,
+    "question": "Übersetzen sie dieses Wort ins Deusche \"das Notizbuch\"",
+    "options": ["Yon daftar", "qalam", "Albom", "daftar"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 6,
+    "question": "-Wohin stellen wir das Sofa? - ... Wohnzimmer",
+    "options": ["ins", "ans", "am", "um"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "To'ldirish"
+  },
+  {
+    "id": 7,
+    "question": "Wo ... dein Vater?",
+    "options": ["arbeitet", "arbeitest", "arbeite", "arbeiten"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 8,
+    "question": "- Wo steht der Fernseher? - Er steht ... dem Tisch.",
+    "options": ["auf", "in", "aus", "gegen"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Predlog"
+  },
+  {
+    "id": 9,
+    "question": "Was passt nicht? Apfel, Banane, Flasche, Birne",
+    "options": ["Flasche", "Apfel", "Banane", "Birne"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Saralash"
+  },
+  {
+    "id": 10,
+    "question": "Sie (beantworten) die Fragen.",
+    "options": ["beantwortet", "beantworte", "beantwortest", "beantwortene"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 11,
+    "question": "Der Unterricht (beginnen) um 8 Uhr.",
+    "options": ["beginnt", "beginne", "beginnen", "beginnest"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 12,
+    "question": "Wir (besuchen) unsere Grosseltern.",
+    "options": ["besuchen", "besuche", "besuchst", "besucht"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 13,
+    "question": "Was passt nicht? Computer, Drucker, Bildschirm, Schluessel",
+    "options": ["Schluessel", "Drucker", "Bildschirm", "Computer"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Saralash"
+  },
+  {
+    "id": 14,
+    "question": "Übersetzen Sie auf Deutsch \"printer\"",
+    "options": ["Drucker", "Computer", "Bildschirm", "Karte"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "O'zbek → Nemis"
+  },
+  {
+    "id": 15,
+    "question": "Nicht schwer",
+    "options": ["leicht", "kurz", "billig", "teuer"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Antonim"
+  },
+  {
+    "id": 16,
+    "question": "Hallo, ich bin Sara. - Ich bin Lehrerin. Was ... du von Beruf? Ich bin Journalistin.",
+    "options": ["bist", "ist", "bin", "sind"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 17,
+    "question": "Übersetzen Sie: Meine Eltern arbeiten in der Schule",
+    "options": ["Mening ota-onam maktabda ishlaydilar", "Men maktabda ishlayman", "Biz maktabda ishlaymiz", "U maktabda ishlaydi"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 18,
+    "question": "Finden Sie Synonym zum Wort \"leben\"",
+    "options": ["wohnen", "haben", "bleiben", "sitzen"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Sinonim"
+  },
+  {
+    "id": 19,
+    "question": "Meine .... tun weh.",
+    "options": ["Beine", "Apfel", "Brot", "Wasser"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "To'ldirish"
+  },
+  {
+    "id": 20,
+    "question": "Übersetzen Sie folgendes Wort auf Usbekisch. \"die Sprache\"",
+    "options": ["til", "gaplashmoq", "chet tili", "ma'ruza"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 21,
+    "question": "Übersetzen Sie folgendes Wort auf Usbekisch. \"billig\"",
+    "options": ["arzon", "qimmat", "chiroyli", "kalta"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 22,
+    "question": "Sagen Sie die Übersetzung des Wortes \"Die Geldbörse\"",
+    "options": ["hamyon", "pul", "Cho'ntak", "sumka"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 23,
+    "question": "Wie heisst das auf Deutsch? ruchka",
+    "options": ["Der Kugelschreiber", "Das Buch", "Das Heft", "Der Tafel"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "O'zbek → Nemis"
+  },
+  {
+    "id": 24,
+    "question": "Was passt nicht? der Kugelschreiber, das Heft, die Tasche, das Brot",
+    "options": ["das Brot", "der Kugelschreiber", "das Heft", "die Tasche"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Saralash"
+  },
+  {
+    "id": 25,
+    "question": "Ist das .... Frau?",
+    "options": ["deine", "meine", "dein", "sein"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Egalik olmoshi"
+  },
+  {
+    "id": 26,
+    "question": "Ist Frau Duate ... Lehrerin?",
+    "options": ["deine", "mein", "dein", "sein"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Egalik olmoshi"
+  },
+  {
+    "id": 27,
+    "question": "... Freund heisst Artur",
+    "options": ["mein", "sein", "dein", "seine"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Egalik olmoshi"
+  },
+  {
+    "id": 28,
+    "question": "Franz und marianne sind ... Eltern",
+    "options": ["meine", "seine", "dein", "mein"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Egalik olmoshi"
+  },
+  {
+    "id": 29,
+    "question": "Er ist ... Kollege",
+    "options": ["mein", "seine", "dein", "mein"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Egalik olmoshi"
+  },
+  {
+    "id": 30,
+    "question": "Das Buch ... Freundes ist neu.",
+    "options": ["des", "der", "den", "die"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Artikel"
+  },
+  {
+    "id": 31,
+    "question": "-Ist das ein Hotel? - Ja, das ist ... Hotel Hafenblick.",
+    "options": ["das", "der", "den", "die"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Artikel"
+  },
+  {
+    "id": 32,
+    "question": "-Wohin stellen wir das Sofa? - Natürlich ... Wohnzimmer.",
+    "options": ["ins", "im", "der", "in"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Predlog"
+  },
+  {
+    "id": 33,
+    "question": "Finden Sie Synonym zum Wort \"der Opa\"",
+    "options": ["Der Grossvater", "Der Vater", "Der Bruder", "Der Neffe"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Sinonim"
+  },
+  {
+    "id": 34,
+    "question": "Finden Sie Synonym zum Wort \"das Zimmer\"",
+    "options": ["der Raum", "der Tisch", "der Schrank", "die Tafel"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Sinonim"
+  },
+  {
+    "id": 35,
+    "question": "Wie heisst das auf Deutsch? shkaf",
+    "options": ["Der Schrank", "Der Tisch", "Der Teppich", "Die Flasche"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "O'zbek → Nemis"
+  },
+  {
+    "id": 36,
+    "question": "Wie heisst das auf Deutsch? Ko'zoynak",
+    "options": ["Die Brille", "Die Flasche", "Der Teppich", "Das Bild"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "O'zbek → Nemis"
+  },
+  {
+    "id": 37,
+    "question": "Ich suche ... Kalender",
+    "options": ["Den - ni", "dem", "des", "der"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Artikel"
+  },
+  {
+    "id": 38,
+    "question": "Als ... nehme ich eine Suppe.",
+    "options": ["Vorspeise", "Nachspeise", "Dessert", "Tee"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "To'ldirish"
+  },
+  {
+    "id": 39,
+    "question": "Brauchen ... Hilfe?",
+    "options": ["Sie", "mir", "dich", "dein"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Pronomen"
+  },
+  {
+    "id": 40,
+    "question": "Finden Sie Antonym zum Wort \"klein\"",
+    "options": ["gross", "kalt", "dick", "dunn"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Antonim"
+  },
+  {
+    "id": 41,
+    "question": "Wieviel kostet ... Teppich?",
+    "options": ["der", "das", "die", "den"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Artikel"
+  },
+  {
+    "id": 42,
+    "question": ".... Sofa kostet 3999 Euro",
+    "options": ["das", "der", "die", "dem"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Artikel"
+  },
+  {
+    "id": 43,
+    "question": "Das Café ist neben ... Bank.",
+    "options": ["der", "dem", "die", "den"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Artikel"
+  },
+  {
+    "id": 44,
+    "question": "--Welch... Kleid gefaellt dir?",
+    "options": ["es", "ja", "die", "der"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "So'rog' so'z"
+  },
+  {
+    "id": 45,
+    "question": "Welches Wort passt nicht? die Müsli, das Hotel, die Bank, die Post",
+    "options": ["die Müsli", "das Hotel", "die Bank", "die Post"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Saralash"
+  },
+  {
+    "id": 46,
+    "question": "Finden sie die richtige Pluralform \"das Kind\"",
+    "options": ["Die Kinder", "Die Kinde", "Die Kinden", "Die Kindes"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Ko'plik"
+  },
+  {
+    "id": 47,
+    "question": "Finden Sie Synonym zum Wort \"der Job\"",
+    "options": ["der Beruf", "der Kellner", "die Krankenschwester", "das Jahr"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Sinonim"
+  },
+  {
+    "id": 48,
+    "question": "Welches Wort passt nicht? das Hemd, der Garten, die Küche, die Garage",
+    "options": ["das Hemd", "der Garten", "die Küche", "die Garage"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Saralash"
+  },
+  {
+    "id": 49,
+    "question": "Welches Wort passt nicht? Das Hemd, die Garage, die Kuche, der Garten",
+    "options": ["Das Hemd", "Die garage", "Die Kueche", "Der Garten"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Saralash"
+  },
+  {
+    "id": 50,
+    "question": "Finden sie die richtige Pluralform \"der Tisch\"",
+    "options": ["Die Tische", "Die Tischen", "Die Tischer", "Die Tisches"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Ko'plik"
+  },
+  {
+    "id": 51,
+    "question": "Wie alt sind die Kinder?",
+    "options": ["Zwei, drei und fünf", "zwei", "drei", "sieben"],
+    "correctAnswer": 0,
+    "category": "Raqamlar",
+    "type": "Sanoq"
+  },
+  {
+    "id": 52,
+    "question": "Wo wohnen Sie?",
+    "options": ["Ich wohne in Samarkand", "Wir kommen aus Deutschland", "Du lebst in Muenchen", "Sie leben in Berlin"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 53,
+    "question": "Hier ist ... Feurzeug. ... Feuerzeug ist praktisch",
+    "options": ["ein / das", "eine / die", "ein / der", "eines / einem"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Artikel"
+  },
+  {
+    "id": 54,
+    "question": "-Ich hätte gerne ... Saft. - Orangensaft oder Apfelsaft?",
+    "options": ["ein Glas", "eine Flasche", "ein Kilo", "einen Teller"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "To'ldirish"
+  },
+  {
+    "id": 55,
+    "question": "-Wie spät ist es? 19.30 Uhr",
+    "options": ["halb acht", "neun Uhr", "ein Uhr", "halb zehn"],
+    "correctAnswer": 0,
+    "category": "Vaqt",
+    "type": "Vaqt ifodalash"
+  },
+  {
+    "id": 56,
+    "question": "Das ist ... Tasche. ... Tasche ist schwarz",
+    "options": ["eine / die", "Ein/ der", "Ein/ das", "Einer/die"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Artikel"
+  },
+  {
+    "id": 57,
+    "question": "- Was essen wir heute? - Wir machen ... Salat.",
+    "options": ["einen - ni", "ein", "eine", "einer"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Artikel"
+  },
+  {
+    "id": 58,
+    "question": "Hier ist ... Brille. ... ist leicht",
+    "options": ["eine /die", "ein / der", "eines / einer", "einer/ einem"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Artikel"
+  },
+  {
+    "id": 59,
+    "question": "Das Bild ist sehr modern. ... ist von Pablo Picasso.",
+    "options": ["es", "sie", "er", "ihr"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Pronomen"
+  },
+  {
+    "id": 60,
+    "question": "Wie viel kostet der Teppich?",
+    "options": ["Er kostet 200 Euro", "Er ist wirklich schӧn", "Er ist nicht schlecht", "Er findet das Feuerzeug praktisch"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 61,
+    "question": "Der Tisch ist sehr teuer. ... kommt aus Italien.",
+    "options": ["er", "wir", "es", "sie"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Pronomen"
+  },
+  {
+    "id": 62,
+    "question": "Was kostet der Stuhl?",
+    "options": ["Er kostet nur 55 sum", "Es ist schon", "Es ist billig", "Es kostet 66 sum"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 63,
+    "question": "Er (essen) mit Appetit zu Mittag.",
+    "options": ["isst", "esse", "essen", "esst"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 64,
+    "question": "Ich ... Scherzod.",
+    "options": ["heisse", "gehe", "fahre", "heisst"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 65,
+    "question": "Der Mann ... das Feuerzeug praktisch.",
+    "options": ["findet", "ist", "finde", "mache"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 66,
+    "question": "Wie viel ... der Teppich?",
+    "options": ["kostet", "ist", "finde", "mache"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 67,
+    "question": "Manche Länder ... einen Ampelmann.",
+    "options": ["haben", "ist", "finde", "kostet"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 68,
+    "question": "Wie heiβt das Gegenteil zum Wort \"interessant\"?",
+    "options": ["langweilig", "sympatisch", "freundlich", "seltsam"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Antonim"
+  },
+  {
+    "id": 69,
+    "question": "Ergänzen Sie die Zahl. \"54\"",
+    "options": ["vierundfünfzig", "sechsundfünfzig", "fünfzig", "einundfünfzig"],
+    "correctAnswer": 0,
+    "category": "Raqamlar",
+    "type": "To'ldirish"
+  },
+  {
+    "id": 70,
+    "question": "... dir das Heft? Nein, das ist nicht mein Heft.",
+    "options": ["gehört", "gehören", "gefällt", "gefallen"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 71,
+    "question": "Nicht billig",
+    "options": ["teuer", "schoen", "gross", "klein"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Antonim"
+  },
+  {
+    "id": 72,
+    "question": "Finden sie das Wort \"schwer\"",
+    "options": ["leicht", "praktisch", "guenstig", "dunkel"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Antonim"
+  },
+  {
+    "id": 73,
+    "question": "Ich arbeite als...",
+    "options": ["Lehrerin", "mache", "habe", "lebe"],
+    "correctAnswer": 0,
+    "category": "Kasb",
+    "type": "To'ldirish"
+  },
+  {
+    "id": 74,
+    "question": "Hallo, ich .... Wiebke.",
+    "options": ["bin", "habe", "haben", "ist"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 75,
+    "question": "Wie ..... du?",
+    "options": ["heisst", "heissen", "haben", "hast"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 76,
+    "question": "Uebersetzen Sie auf Deutsch \"bormoq\"",
+    "options": ["gehen", "kommen", "haben", "machen"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "O'zbek → Nemis"
+  },
+  {
+    "id": 77,
+    "question": "Wie heisst das auf Deutsch? zamonaviy",
+    "options": ["modern", "schoen", "haesslich", "gross"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "O'zbek → Nemis"
+  },
+  {
+    "id": 78,
+    "question": "Wie spaet ist es? 8.30",
+    "options": ["Halb neun", "Neun Uhr Dreissig", "Halb acht", "Viertel vor acht"],
+    "correctAnswer": 0,
+    "category": "Vaqt",
+    "type": "Vaqt ifodalash"
+  },
+  {
+    "id": 79,
+    "question": "Er ... ein Zimmer",
+    "options": ["hat", "habt", "hast", "haben"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 80,
+    "question": "Ich ... eine Ausbildung",
+    "options": ["mache", "habe", "hat", "arbeitet"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 81,
+    "question": "Wie ist das Wetter heute?",
+    "options": ["Heute ist warm", "Alle sind da", "Heute ist der Montag", "Jetzt ist der Winter"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 82,
+    "question": "Du brauchst eine Brille. Die ... dir.",
+    "options": ["hilft", "helfen", "hilfst", "helfe"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 83,
+    "question": "Wo steht der Fernseher. Er steht ... Tisch.",
+    "options": ["auf", "unter", "hinter", "an"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Predlog"
+  },
+  {
+    "id": 84,
+    "question": "Finden Sie Antonym zum Wort \"alt\"",
+    "options": ["neu", "lang", "hoch", "schoen"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Antonim"
+  },
+  {
+    "id": 85,
+    "question": "Wie ist das Wetter heute?",
+    "options": ["Es ist kalt", "Wir sind Studenten", "Ich bin Doctor", "Er ist Krank"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 86,
+    "question": "Wo wohnen Sie?",
+    "options": ["Ich wohne in Samarkand", "Ich heisse Elbek", "Ich bin Student", "Er ist praktisch"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 87,
+    "question": "Bilden Sie Satz! kommen, aus, Deutschland, ich",
+    "options": ["Ich komme aus Deutschland", "Komme ich aus Deutschland", "Ich komme Deutschland aus", "ich aus Komme Deutschland"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Gap tuzish"
+  },
+  {
+    "id": 88,
+    "question": "Wie heisst du?",
+    "options": ["Ich heisse Lola", "Ich komme aus Berlin", "Ich lebe in Deutschland", "Ich kann schreiben"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 89,
+    "question": "Was bist du von Beruf?",
+    "options": ["Ich bin Doctor von Beruf", "Mein Name ist ...", "Ich lebe in Taschkent", "Ich gehe spazieren"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 90,
+    "question": "Welche Sprachen sprichst du?",
+    "options": ["Ich spreche Deutsch", "Ich habe Deuutsche Unterricht", "Ich mache Hausaufgaben", "Ich lese viele Buecher"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 91,
+    "question": "Hallo, ich bin Julia. Was machen Sie gern?",
+    "options": ["Ich reise gern", "Reisen gern", "Ich reise", "Gern ich reise"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 92,
+    "question": "Wie alt bist du?",
+    "options": ["Ich bin 18 Jahre alt", "Mein Name ist Latif", "Ich wohne in Samarkand", "Ich heisse Akbar"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 93,
+    "question": "Übersetzen Sie folgendes Wort auf Usbekisch. Wie geht's?",
+    "options": ["Ahvol qanday?", "Nima qilayapsan?", "Isming nima?", "Qayerda yashaysan?"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 94,
+    "question": "Ich ... das Zimmer sehr gross.",
+    "options": ["finde", "kostet", "ist", "mache"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 95,
+    "question": "Der Hut gefällt mir besser ....... die Mütze.",
+    "options": ["als", "wie", "Ist", "es"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Qiyoslash"
+  },
+  {
+    "id": 96,
+    "question": "Schreiben sie Sätze. Wer/das/ist",
+    "options": ["Wer ist das?", "Das ist wer?", "Ist das wer?", "Das wer ist?"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Gap tuzish"
+  },
+  {
+    "id": 97,
+    "question": "Mama und Papa ... sehr gut Ski fahren",
+    "options": ["können", "koennt", "kann", "kannst"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 98,
+    "question": "Ich ... Gitarre spielen",
+    "options": ["kann", "koennen", "kannst", "koennt"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 99,
+    "question": "Wo arbeitet Karim jetzt?",
+    "options": ["In Berlin", "Einen Job", "Kaufen", "Er hat"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 100,
+    "question": "Finden Sie Antonym zum Wort \"falsch\"",
+    "options": ["richtig", "schön", "klein", "sauber"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Antonim"
+  },
+  {
+    "id": 101,
+    "question": "Wie heiβen Sie?",
+    "options": ["Ich heiβe Malika", "Ich bin 18 Jahre alt", "Ich komme aus Taschkent", "Ich komme aus Samarkand"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 102,
+    "question": "Woher kommst du?",
+    "options": ["Ich komme aus Usbekistan", "Ich heiβe Karim", "Ich bin 20 Jahre alt", "Mein Name ist Lasis"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 103,
+    "question": ".... heiβt du?",
+    "options": ["Wie", "Woher", "Wer", "Wann"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "So'rog' so'z"
+  },
+  {
+    "id": 104,
+    "question": ".... kommst du?",
+    "options": ["Woher", "Wer", "Wann", "Wie"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "So'rog' so'z"
+  },
+  {
+    "id": 105,
+    "question": "Ich schreib... einen Brief",
+    "options": ["-e", "-t", "-st", "-en"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 106,
+    "question": "Die Kinder spiel... im Garten.",
+    "options": ["-en", "-t", "-st", "-e"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 107,
+    "question": "Wer ... das?",
+    "options": ["ist", "bist", "sind", "seid"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 108,
+    "question": "Übersetzen Sie. Wie geht's?",
+    "options": ["Ahvoling qanday?", "Isming nima?", "Yoshing nechada?", "Qayerdansan?"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 109,
+    "question": "Übersetzen Sie. Der Verkäufer",
+    "options": ["sotuvchi", "o'quvchi", "sartorosh", "farrosh"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 110,
+    "question": "Peter ... aus Deutschland.",
+    "options": ["kommt", "kommst", "komme", "Kommen"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 111,
+    "question": "Begrüβung auf Deutsch.",
+    "options": ["Guten Morgen!", "ein", "zwischen", "durch"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Salomlashish"
+  },
+  {
+    "id": 112,
+    "question": "Abschied auf Deutsch.",
+    "options": ["Tschüβ!", "Nachspeise", "Salat", "Getränk"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Xayrlashish"
+  },
+  {
+    "id": 113,
+    "question": "Wer sind Sie?",
+    "options": ["Ich bin Lola", "mich", "meinen Bruder", "meine Schwester"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 114,
+    "question": "Übersetzen Sie. der Schauspieler.",
+    "options": ["aktyor", "Zahl", "Hose", "Jacke"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 115,
+    "question": "Übersetzen Sie. geschieden sein",
+    "options": ["ajrashmoq", "kelishmoq", "yashamoq", "gul"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 116,
+    "question": "Finden Sie das Synonym. *leben*",
+    "options": ["wohnen", "gehen", "kommen", "neben"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Sinonim"
+  },
+  {
+    "id": 117,
+    "question": "Übersetzen Sie. der Kellner.",
+    "options": ["ofitsiant", "haydovchi", "einen Teller", "ein Kilo"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 118,
+    "question": "Herr Sobirov lebt allein. ... ist geschieden.",
+    "options": ["Er", "der", "die", "dem"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Pronomen"
+  },
+  {
+    "id": 119,
+    "question": "Meine Mutter arbeitet in der Schule. ... ist Lehrerin.",
+    "options": ["Sie", "kaufen", "brauchen", "abholen"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Pronomen"
+  },
+  {
+    "id": 120,
+    "question": "Ich heiβe Karim. ... bin 20 Jahre alt.",
+    "options": ["Ich", "suchen", "möchten", "wollen"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Pronomen"
+  },
+  {
+    "id": 121,
+    "question": "Du mach ... die Hausaufgaben.",
+    "options": ["-st", "-t", "-en", "-e"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 122,
+    "question": "Ich studier ... an der Universität.",
+    "options": ["-e", "-st", "-t", "-en"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 123,
+    "question": "Finden Sie das Synonym. *die Hochschule.*",
+    "options": ["die Universität", "begleiteten", "begleite", "begleitest"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Sinonim"
+  },
+  {
+    "id": 124,
+    "question": "Sagen Sie die Zahl. 77.",
+    "options": ["siebenundsiebzig", "besuche", "fünfundsiebzig", "sechsundsiebzig"],
+    "correctAnswer": 0,
+    "category": "Raqamlar",
+    "type": "Sanoq"
+  },
+  {
+    "id": 125,
+    "question": "Sagen Sie die Zahl 83.",
+    "options": ["dreiundachtzig", "siebenundsiebzig", "besuche", "fünfundsiebzig"],
+    "correctAnswer": 0,
+    "category": "Raqamlar",
+    "type": "Sanoq"
+  },
+  {
+    "id": 126,
+    "question": "Wo arbeiten Sie?",
+    "options": ["in Taschkent", "aus Taschkent", "Zu Taschkent", "nach Taschkent"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Predlog"
+  },
+  {
+    "id": 127,
+    "question": "Woher kommen Sie?",
+    "options": ["aus Taschkent", "In Taschkent", "Zu Taschkent", "nach Taschkent"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Predlog"
+  },
+  {
+    "id": 128,
+    "question": "Welches Wort passt nicht? der Schauspieler, der Lehrer, der Sekretär, der Korridor",
+    "options": ["der Korridor", "der Schauspieler", "der Lehrer", "der Sekretär"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Saralash"
+  },
+  {
+    "id": 129,
+    "question": "Welches Wort passt nicht? der Ingenieur, der Verkäufer, der Kellner, der Tisch",
+    "options": ["der Tisch", "der Verkäufer", "der Kellner", "der Ingenieur"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Saralash"
+  },
+  {
+    "id": 130,
+    "question": "Finden Sie das Antonym zum Wort. *falsch*",
+    "options": ["richtig", "sauber", "gut", "schön"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Antonim"
+  },
+  {
+    "id": 131,
+    "question": "Verändern Sie mit Pronomen: Sie. *Die Lampe ist wirklich schön.*",
+    "options": ["Sie", "er", "Des", "Das"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Pronomen"
+  },
+  {
+    "id": 132,
+    "question": "Verändern Sie mit Pronomen: *Das Sofa kostet 359 Euro.*",
+    "options": ["Es", "wir", "Der", "Den"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Pronomen"
+  },
+  {
+    "id": 133,
+    "question": "Sobir ... allein, aber er hat viele Freunde.",
+    "options": ["lebt", "gut", "klug", "gelb"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 134,
+    "question": "Übersetzen Sie. *modern*",
+    "options": ["zamonaviy", "studiert", "Arbeiter", "faul"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 135,
+    "question": "Finden Sie das Antonym. *alt*",
+    "options": ["neu", "Schule", "Schritte", "Schrank"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Antonim"
+  },
+  {
+    "id": 136,
+    "question": "Guten Tag, wie geht es Ihnen?",
+    "options": ["Danke, gut!", "die Verwandte", "die Bekannte", "die Familie"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 137,
+    "question": "Brauchen Sie Hilfe?",
+    "options": ["Ja, bitte!", "Nein, bitte!", "Ja, sie", "Ja, sie kennt Französisch"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 138,
+    "question": ".... Stuhl ist günstig.",
+    "options": ["der", "die", "das", "eine"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Artikel"
+  },
+  {
+    "id": 139,
+    "question": "Übersetzen Sie \"brauchen\"",
+    "options": ["kerak bo'lmoq", "Sie kommen aus Italien", "Er kommt aus Italien", "Ich komme aus Italien"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 140,
+    "question": "Übersetzen Sie . \"Sonderangebot \"",
+    "options": ["maxsus chegirma", "yordam", "kerak bo'lmoq", "Ich bin 17 alt"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 141,
+    "question": "Sagen Sie Antonym *\"schön\"*",
+    "options": ["häβlich", "groβ", "Ich hiessest Veronika", "Ich heiß Veronika"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Antonim"
+  },
+  {
+    "id": 142,
+    "question": "Sagen Sie Antonym *\" lang\"*",
+    "options": ["kurz", "die Verwandte", "die Familie", "die Freunde"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Antonim"
+  },
+  {
+    "id": 143,
+    "question": "Hier ist ... Buch. ... Buch ist interessant",
+    "options": ["ein / das", "eine/ der", "ein/ die", "das Dorf"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Artikel"
+  },
+  {
+    "id": 144,
+    "question": "Das ist ... Kette. .... ist modern.",
+    "options": ["eine/die", "ein / das", "eine/ der", "ein/ die"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Artikel"
+  },
+  {
+    "id": 145,
+    "question": "Die Flasche ist aus ...",
+    "options": ["Plastik", "Holz", "sind", "Papier"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "To'ldirish"
+  },
+  {
+    "id": 146,
+    "question": "Der Stuhl ist aus ....",
+    "options": ["Holz", "Papier", "Plastik", "Glass"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "To'ldirish"
+  },
+  {
+    "id": 147,
+    "question": "Er heiβ ... Karim",
+    "options": ["t", "st", "e", "en"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 148,
+    "question": "Übersetzen Sie. *\"das Papier\"*",
+    "options": ["Qog'oz", "to'rtburchak", "uchburchak", "shakl"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 149,
+    "question": "Übersetzen Sie. *\"eckig\"*",
+    "options": ["to'rtburchak", "uch", "Qog'oz", "aylana"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 150,
+    "question": "Finden Sie das Synonym *\"finden\"*",
+    "options": ["denken", "sagen", "suchen", "Es"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Sinonim"
+  },
+  {
+    "id": 151,
+    "question": "Finden Sie das Synonym *\"das Land\"*",
+    "options": ["der Staat", "denken", "sagen", "suchen"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Sinonim"
+  },
+  {
+    "id": 152,
+    "question": "Übersetzen Sie *\" die Geldbörse\"*",
+    "options": ["hamyon", "denken", "sagen", "suchen"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 153,
+    "question": "Sagen Sie die Plural *\"die Briefmarke\"*",
+    "options": ["die Briefmarken", "die Briefmarke", "die Briefmarker", "die Briefmarkes"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Ko'plik"
+  },
+  {
+    "id": 154,
+    "question": "Sagen Sie die Plural *\"das Handy\"*",
+    "options": ["die Handys", "die Handyn", "Die Handyer", "die Handy"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Ko'plik"
+  },
+  {
+    "id": 155,
+    "question": "Ich suche ... Heft.",
+    "options": ["das", "eine", "Der", "einen"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Artikel"
+  },
+  {
+    "id": 156,
+    "question": "Mein Vater liest viele ...",
+    "options": ["Bücher", "Buch", "Buches", "Buchen"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Ko'plik"
+  },
+  {
+    "id": 157,
+    "question": "Viele ... nehmen an der Versammlung teil.",
+    "options": ["Studenten", "sollst", "sollen", "sollt"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Ko'plik"
+  },
+  {
+    "id": 158,
+    "question": "Wie ist das Wetter heute?",
+    "options": ["Heute ist sonnig", "hat", "haben", "hast"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 159,
+    "question": "Welcher Wochentag ist heute?",
+    "options": ["Sonntag", "habe", "haben", "hast"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 160,
+    "question": "Welche Jahreszeit ist jetzt?",
+    "options": ["Frühling", "hat", "haben", "habe"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 161,
+    "question": "Wie ist das Wetter heute?",
+    "options": ["Heute ist warm", "Ich bin 18 Jahre alt", "Ich lerne Deutsch", "Mein Name ist Karim"],
+    "correctAnswer": 0,
+    "category": "Muloqot",
+    "type": "Javob"
+  },
+  {
+    "id": 162,
+    "question": "Finde Antonym zum Wort „rechts\"",
+    "options": ["Links", "geradeaus", "oben", "auf"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Antonim"
+  },
+  {
+    "id": 163,
+    "question": "Finden Sie ein Synonym zum Wort. \"das Zimmer\"",
+    "options": ["der Raum", "die Wohnung", "das Haus", "der Keller"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Sinonim"
+  },
+  {
+    "id": 164,
+    "question": "Finden Sie Antonym \"interessant\".",
+    "options": ["langweilig", "wichtig", "nett", "stark"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Antonim"
+  },
+  {
+    "id": 165,
+    "question": "Finden Sie das Synonym zum Wort. \"machen\"",
+    "options": ["tun", "lachen", "sagen", "kaufen"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Sinonim"
+  },
+  {
+    "id": 166,
+    "question": "Finden Sie das Antonym \"schön\"",
+    "options": ["häβlich", "nett", "schlank", "fleiβig"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Antonim"
+  },
+  {
+    "id": 167,
+    "question": "Was ist das? Dort können Sie Medikamente kaufen.",
+    "options": ["die Apotheke", "die Medizin", "das Rezept", "der Doktor"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Tanishish"
+  },
+  {
+    "id": 168,
+    "question": "Welches Wort passt nicht? die Brot, das Hotel, die Post, die Bank",
+    "options": ["die Brot", "das Hotel", "die Post", "die Bank"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Saralash"
+  },
+  {
+    "id": 169,
+    "question": "Welches Wort passt nicht? das Hemd, die Garage, die Küche, der Garten",
+    "options": ["das Hemd", "die Garage", "die Küche", "der Garten"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Saralash"
+  },
+  {
+    "id": 170,
+    "question": "Wo bin ich? Ich bin shoppen.",
+    "options": ["in einem Laden", "in einem Park", "in einem Schloss", "im Fluss"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Tanishish"
+  },
+  {
+    "id": 171,
+    "question": "Meine Mutter ... Lehrerin von Beruf.",
+    "options": ["ist", "sind", "bin", "bist"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 172,
+    "question": "Der Bleistift und die Tafel ... braun.",
+    "options": ["sind", "ist", "bin", "bist"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 173,
+    "question": "Das ist ... Tafel. Die Tafel ist grün.",
+    "options": ["eine", "ein", "einer", "eines"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Artikel"
+  },
+  {
+    "id": 174,
+    "question": "Finden Sie die Übersetzung zum Wort \"Rechnung\"",
+    "options": ["hisobot", "tishni tozalamoq", "xonani tozalamoq", "chiqindini olib chiqmoq"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 175,
+    "question": "Finden Sie die Übersetzung zum Wort \"auf keinen Fall\"",
+    "options": ["har qanday holatda", "hech narsa", "bir lahzada", "biron kishi"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 176,
+    "question": "Finden Sie ein Synonym zum Wort «die Oma»",
+    "options": ["die Grossmutter", "das Kind", "die Mutter", "die Tante"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Sinonim"
+  },
+  {
+    "id": 177,
+    "question": "Finden Sie die richtige Pluralform \"die Nacht\"",
+    "options": ["die Nächte", "der Nacht", "die Nächten", "die Nachts"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Ko'plik"
+  },
+  {
+    "id": 178,
+    "question": "Finden Sie die richtige Pluralform \"das Museum\"",
+    "options": ["die Museen", "die Museums", "die Museume", "die Museum"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Ko'plik"
+  },
+  {
+    "id": 179,
+    "question": "Finden Sie ein Synonym zum Wort «die Opa»",
+    "options": ["der Grossvater", "das Kind", "die Mutter", "die Tante"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Sinonim"
+  },
+  {
+    "id": 180,
+    "question": "Übersetzen Sie. *\"der Laptop\"*",
+    "options": ["leptop", "sichqoncha", "qalam", "marka"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 181,
+    "question": "Finden Sie ein Synonym zum Wort. \"der Abfall\"",
+    "options": ["der Müll", "die Umwelt", "der Eimer", "der Abfahrt"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Sinonim"
+  },
+  {
+    "id": 182,
+    "question": "Finden Sie die Übersetzung dieser Wortgruppe \"eine Ausbildung abschlieβen\"",
+    "options": ["ta'limni tugatmoq", "imtixon topshirmoq", "ta'lim olmoq", "ta'limni boshlamoq"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 183,
+    "question": "Finden Sie die Übersetzung des Wortes \"die Socke\"",
+    "options": ["paypoq", "palto", "kurtka", "shlyapa"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 184,
+    "question": "Übersetzung des Wortes \"die Himmelsrichtung\"",
+    "options": ["dunyoning to'rt tomoni", "Ob-havo", "iqlim", "Osmon"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 185,
+    "question": "Finden Sie Synonym zum Wort \"das Fest\"",
+    "options": ["die Feier", "das Ostern", "das Frühstück", "der Glüchwunsch"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Sinonim"
+  },
+  {
+    "id": 186,
+    "question": "Fiden Sie die Übersetzung des Wortes Eine Prüfung ......",
+    "options": ["imtihon", "bayram", "qilmoq", "Olmoq"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 187,
+    "question": "Ordnen Sie. Angst .....",
+    "options": ["haben", "sein", "brauchen", "nehmen"],
+    "correctAnswer": 0,
+    "category": "Grammatika",
+    "type": "Fe'l tuzilishi"
+  },
+  {
+    "id": 188,
+    "question": "Finden Sie die Übersetzung des Wortes \"Uchrashuvni rad etmoq\"",
+    "options": ["die Termine absagen", "die Wegbeschreibung", "Kein Problem", "Einen Moment"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "O'zbek → Nemis"
+  },
+  {
+    "id": 189,
+    "question": "Wie sagt man folgendes Wort auf Deutsch \"Ijarachi\" ?",
+    "options": ["Vermieter", "der Kellner", "der Redner", "der Kellner"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "O'zbek → Nemis"
+  },
+  {
+    "id": 190,
+    "question": "Übersetzen Sie das Wort \"bezahlen\"",
+    "options": ["to'lamoq", "rad qilmoq", "hisoblamoq", "hidlamoq"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 191,
+    "question": "Übersetzen Sie das Wort \"der Turm\"",
+    "options": ["Minora", "saroy", "yerto'la", "o'yingoh"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 192,
+    "question": "Sagen Sie das Synonym zum Wort \"telefonieren\"",
+    "options": ["Anrufen", "hassen", "rufen", "erhalten"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Sinonim"
+  },
+  {
+    "id": 193,
+    "question": "Finden Sie das Antonym zum Wort \"sauber\"",
+    "options": ["Schmutzig", "hässlich", "schnell", "unsympatisch"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Antonim"
+  },
+  {
+    "id": 194,
+    "question": "Sagen Sie das Synonym zum Wort \"sich kleiden\"",
+    "options": ["sich anziehen", "sich waschen", "sich interessieren", "sich erholen"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Sinonim"
+  },
+  {
+    "id": 195,
+    "question": "Finden Sie das Antonym zum Wort 'erlaubt\"",
+    "options": ["Verboten", "langsam", "verstehen", "langsam"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "Antonim"
+  },
+  {
+    "id": 196,
+    "question": "Sagen Sie die Übersetzung des Wortes \"hupen\"",
+    "options": ["signal bermoq", "qolmoq", "o'rnidan turmoq", "chaqirmoq"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 197,
+    "question": "Sagen Sie Übersetzung des Wortes „die Maus\"",
+    "options": ["sichqoncha", "printer", "hisobot", "qo'l kompyuteri"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 198,
+    "question": "Wie übersetzt man das Wort „Rad fahren\"",
+    "options": ["velosiped minmoq", "otda minmoq", "uchrashmoq", "uchmoq"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  },
+  {
+    "id": 199,
+    "question": "Ein Stück .......",
+    "options": ["Kuchen", "Apfel", "Milch", "Sähne"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "To'ldirish"
+  },
+  {
+    "id": 200,
+    "question": "Eine Tafel ......",
+    "options": ["Schokolade", "Birne", "Suppe", "Zitrone"],
+    "correctAnswer": 0,
+    "category": "So'z boyligi",
+    "type": "To'ldirish"
+  },
+  {
+    "id": 201,
+    "question": "Wie heiβen die Wörter. \"spazieren gehen\"",
+    "options": ["Aylanishga chiqmoq", "to'lamoq", "rad qilmoq", "hisoblamoq"],
+    "correctAnswer": 0,
+    "category": "Tarjima",
+    "type": "Nemis → O'zbek"
+  }
+]
